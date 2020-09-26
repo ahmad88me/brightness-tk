@@ -1,0 +1,7 @@
+2020-09-26 22:53:50,054 __main__     DEBUG    LVDS-0 connected primary 1280x800+0+0 (normal left inverted right x axis y axis) 286mm x 179mm
+
+2020-09-26 22:53:50,084 __main__     DEBUG    monitor: LVDS-0
+2020-09-26 22:53:50,203 __main__     DEBUG    	Brightness: 0.90
+
+2020-09-26 22:53:50,203 __main__     DEBUG    current brightness: 0.9
+2020-09-26 22:53:50,211 __main__     DEBUG    New brightness: 0.9
